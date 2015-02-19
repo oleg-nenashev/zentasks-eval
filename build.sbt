@@ -1,6 +1,6 @@
 import play.Project._
 
-name := "zentask"
+name := "zentask-eval"
 
 version := "1.0"
 
